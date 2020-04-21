@@ -1,0 +1,12 @@
+num=2
+print(num)
+num=8
+print(num)
+num="deepak"
+print(num)
+num=392.9
+print(num)
+first_user_name="raj"
+FirstUserName="kumar"
+print(first_user_name)
+print(FirstUserName)
